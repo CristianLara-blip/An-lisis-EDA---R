@@ -1,6 +1,6 @@
 ### Ejecución del Código
 
-Creación del Entorno Virtual:
+Comando para la creación del Entorno Virtual:
 
 `virtualenv -p python3 env`
 
